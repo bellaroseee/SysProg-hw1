@@ -23,3 +23,4 @@
 | [test_hashtable.cc](https://github.com/bellaroseee/SysProg-hw1/blob/master/test_hashtable.cc) | 
   
 ## Memory Check
+![alt text](https://raw.githubusercontent.com/bellaroseee/SysProg-hw1/master/download.jpg)
