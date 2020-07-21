@@ -12,7 +12,7 @@
 | [test_linkedlist.cc](https://github.com/bellaroseee/SysProg-hw1/blob/master/test_linkedlist.cc) | |
 ## Chained Hash Table
 ### Data Structure
-| Prorgam Files |  |
+| Program Files |  |
 | --- | --- |
 | [HashTable.h](https://github.com/bellaroseee/SysProg-hw1/blob/master/HashTable.h) | header file for Hash Table data structure | 
 | [HashTable_priv.h](https://github.com/bellaroseee/SysProg-hw1/blob/master/HashTable_priv.h) | internal structure and helper functions |
