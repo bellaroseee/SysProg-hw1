@@ -1,9 +1,6 @@
 # Implementing C data structures: doubly-linked list and chained hash table
-  
 ## Doubly-Linked List
-  
 ### Data Structure
-  
 | Program Files | |
 | --- | --- |
 | LinkedList.h | |
@@ -13,11 +10,8 @@
 | Test Files | |
 | --- | --- |
 | test_linkedlist.cc | |
-  
 ## Chained Hash Table
-  
 ### Data Structure
-  
 | Prorgam Files |  |
 | --- | --- |
 | HashTable.h | | 
@@ -29,4 +23,3 @@
 | test_hashtable.cc | 
   
 ## Memory Check
-  
